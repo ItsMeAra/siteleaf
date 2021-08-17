@@ -1,0 +1,10 @@
+---
+title: My post
+date: 2021-08-17 05:14:00 Z
+categories:
+- random
+tags:
+- test
+---
+
+This is my first post... check it out!
