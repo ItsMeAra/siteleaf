@@ -2,6 +2,9 @@
 title: Leaf Starter
 timezone: UTC
 collections:
+  favorites:
+    title: Favorites
+    output: true
   posts:
     title: Posts
     output: true
